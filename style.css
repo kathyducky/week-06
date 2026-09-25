@@ -1,3 +1,25 @@
 body { background-color:#FFB1B1;}
-h1 { color:#1D2128; }
-p {color:#5E244E; }
+h1 { color:#1D2128; 
+	text-align:center;
+	font-size: 30pt;	
+	font-weight: normal;
+	font-family: sans-serif;
+
+	}
+p {	
+	color:#5E244E; 
+	background-color:#FFEBB8;
+	padding:0.6 em;
+	margin:9.8 em;
+	text-align:right;
+	border: 3px dashed black ;
+}
+
+div {
+	text-align:center;
+}
+
+a {
+	color:#FFD6E0;
+	text-decoration; none
+}
